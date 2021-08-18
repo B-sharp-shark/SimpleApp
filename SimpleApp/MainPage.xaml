@@ -38,7 +38,7 @@
                                 </BoxView.Margin>
                             </BoxView>
                             <custom:RoundedEntry Placeholder="Enter Phone Number"
-                                                 Text="08140122664"
+                                                 Text=""
                                                  Margin="10,0,0,0"
                                                  ClearButtonVisibility="WhileEditing"
                                                  x:Name="MyEntry"
