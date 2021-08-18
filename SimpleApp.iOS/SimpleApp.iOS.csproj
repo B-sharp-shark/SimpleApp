@@ -133,4 +133,10 @@
       <Name>SimpleApp</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Zuri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\PhoneImg.png" />
+  </ItemGroup>
 </Project>
