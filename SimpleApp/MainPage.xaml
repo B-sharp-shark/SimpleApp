@@ -18,7 +18,8 @@
             <ScrollView Orientation="Vertical" HorizontalOptions="Center" >
                 <StackLayout WidthRequest="400" Margin="40,20">
                     <StackLayout Spacing="10">
-                        <Label Text="{Binding Text, Source={x:Reference MyEntry}}" TextColor="Black"
+                        <Label Text="" TextColor="Black"
+                               x:Name="TextView"
                            FontAttributes="Bold"
                            HorizontalOptions="Center"
                            FontSize="25"/>

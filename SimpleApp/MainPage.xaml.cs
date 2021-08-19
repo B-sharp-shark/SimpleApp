@@ -31,6 +31,7 @@ namespace SimpleApp
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
+            TextView.Text = MyEntry.Text;
             CloseView();
 
             
