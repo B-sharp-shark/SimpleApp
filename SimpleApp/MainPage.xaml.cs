@@ -31,15 +31,33 @@ namespace SimpleApp
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
-            DisplayView.Opacity = 0;
-            DisplayView.IsVisible = true;
-            await DisplayView.FadeTo(1, 200);
+            CloseView();
+
+            
         }
 
         private async void TapGestureRecognizer_Tapped_1(object sender, EventArgs e)
         {
             await DisplayView.FadeTo(0,200);
             DisplayView.IsVisible = false;
+        }
+
+        public async void CloseView()
+        {
+            await DisplayView.FadeTo(0, 200);
+            DisplayView.IsVisible = false;
+        }
+        private void cancel_Clicked(object sender, EventArgs e)
+        {
+            //MyEntry.Text = "";
+            CloseView();
+        }
+
+        private async void ChangeText_Clicked(object sender, EventArgs e)
+        {
+            DisplayView.Opacity = 0;
+            DisplayView.IsVisible = true;
+            await DisplayView.FadeTo(1, 200);
         }
     }
 }
