@@ -5,8 +5,13 @@ Zuri internship - https://internship.zuri.team/
 A simple app that collects user input and displays the input on the screen.
 Mobile and windows view
 
-https://user-images.githubusercontent.com/57772093/129900218-53677309-bcb0-4a47-9e27-7f9955165495.mp4
 
-![image](https://user-images.githubusercontent.com/57772093/129909298-465d2d73-1b64-43a4-a70f-369c63f9a420.png)
+
+
+
+https://user-images.githubusercontent.com/57772093/130124932-4b685ab5-2e36-436e-b49f-1458cb14eea1.mp4
+
+![image](https://user-images.githubusercontent.com/57772093/130125156-e489c210-c4c1-4473-ae86-0e4c6c185184.png)
+
 
 
