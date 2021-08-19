@@ -1,4 +1,7 @@
 # SimpleApp
+![image](https://user-images.githubusercontent.com/57772093/130040122-411275dc-52e0-4a3e-8764-1948f0ace92d.png)
+
+Zuri internship - https://internship.zuri.team/
 A simple app that collects user input and displays the input on the screen.
 Mobile and windows view
 
