@@ -8,7 +8,7 @@ Mobile and windows view
 
 
 
-
+Android Display
 https://user-images.githubusercontent.com/57772093/130124932-4b685ab5-2e36-436e-b49f-1458cb14eea1.mp4
 
 
