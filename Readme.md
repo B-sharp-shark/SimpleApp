@@ -11,6 +11,11 @@ Mobile and windows view
 
 https://user-images.githubusercontent.com/57772093/130124932-4b685ab5-2e36-436e-b49f-1458cb14eea1.mp4
 
+For iOS
+![Simulator Screen Shot - iPhone 11 - 2021-08-20 at 10 39 13](https://user-images.githubusercontent.com/57772093/130273420-86835391-93dc-4d2b-a5ba-dca72a04b34a.png)
+![Simulator Screen Shot - iPhone 11 - 2021-08-20 at 10 39 19](https://user-images.githubusercontent.com/57772093/130273424-65e3ba3d-ca4c-4e1c-ba29-50ae240fdb9b.png)
+
+Windows
 ![image](https://user-images.githubusercontent.com/57772093/130125156-e489c210-c4c1-4473-ae86-0e4c6c185184.png)
 
 
